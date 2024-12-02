@@ -1,7 +1,5 @@
 # Team_6-Clustering
 
-# Team6__Songs_Custering
-
 # Documentation
 
 # Defining Objective: 
